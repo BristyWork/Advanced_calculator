@@ -1,4 +1,4 @@
-﻿#include <calculator.h> //это не обязательный компонент для простых проектов
+﻿#include <calculator.h> //Это не обязательный компонент для простых проектов
 #include <iostream>     // Для ввода/вывода (cout, cin)
 #include <cmath>        // Математические функции (sqrt, pow, fmod)
 #include <limits>       // Для работы с numeric_limits (очистка буфера)
